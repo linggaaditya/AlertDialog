@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas Alert Dialog</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="prgress_bar_spiner">Progress Bar Spiner</string>
+</resources>
